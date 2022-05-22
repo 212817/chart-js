@@ -64,6 +64,6 @@ export const data2 = {
 export const typeChart = [
     { id: 'line', title: 'Line chart' },
     { id: 'bar', title: 'Bar chart' },
-    { id: 'radar', title: 'radar chart' },
-    { id: 'polarArea', title: 'polarArea chart' },
+    { id: 'radar', title: 'Radar chart' },
+    { id: 'polarArea', title: 'PolarArea chart' },
 ]
